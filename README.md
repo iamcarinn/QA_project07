@@ -2,7 +2,9 @@
 Logs
 ---
 
- <h3>Tasks</h3>
+Educational project from organization «School 21 and the National Research Tomsk State University, TSU.
+
+ <h1>Tasks</h1>
  
 | No. | File name | Task | Status |
 | --- | ----------------------| --------------------------------------------------------------------------- | ------ |
